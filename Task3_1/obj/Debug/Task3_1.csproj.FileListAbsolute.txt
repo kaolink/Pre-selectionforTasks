@@ -1,0 +1,14 @@
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3_1.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3_OOP.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3_OOP.pdb
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\bin\Debug\Task3_OOP.exe.config
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\bin\Debug\Task3_OOP.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\bin\Debug\Task3_OOP.pdb
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3_1.csprojResolveAssemblyReference.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task3_1\bin\Debug\Task3_OOP.exe.config
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task3_1\bin\Debug\Task3_OOP.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task3_1\bin\Debug\Task3_OOP.pdb
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task3_1\obj\Debug\Task3_1.csprojResolveAssemblyReference.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task3_1\obj\Debug\Task3_1.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task3_1\obj\Debug\Task3_OOP.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task3_1\obj\Debug\Task3_OOP.pdb

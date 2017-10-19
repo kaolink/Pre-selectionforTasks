@@ -1,0 +1,14 @@
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task1_2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task1_2\Task2\bin\Debug\Task2.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task1_2\Task2\bin\Debug\Task2.pdb
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task1_2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task1_2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task1_2\Task2\obj\Debug\Task2.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task1_2\Task2\obj\Debug\Task2.pdb

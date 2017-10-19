@@ -1,0 +1,13 @@
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\bin\Debug\Task3_OOP.exe.config
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\bin\Debug\Task3_OOP.exe
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\bin\Debug\Task3_OOP.pdb
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\obj\Debug\Task3_OOP.exe
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\obj\Debug\Task3_OOP.pdb
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\bin\Debug\Task3_OOP.exe.config
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\bin\Debug\Task3_OOP.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\bin\Debug\Task3_OOP.pdb
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3_OOP.exe
+C:\Users\Dzmitry_Tarasenka\Desktop\TasksForTraining\Task2_1\Task3\obj\Debug\Task3_OOP.pdb

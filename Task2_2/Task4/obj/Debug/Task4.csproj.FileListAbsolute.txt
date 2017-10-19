@@ -1,0 +1,6 @@
+c:\users\димон\documents\visual studio 2012\Projects\Task4\Task4\bin\Debug\Task4.exe.config
+c:\users\димон\documents\visual studio 2012\Projects\Task4\Task4\bin\Debug\Task4.exe
+c:\users\димон\documents\visual studio 2012\Projects\Task4\Task4\bin\Debug\Task4.pdb
+c:\users\димон\documents\visual studio 2012\Projects\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+c:\users\димон\documents\visual studio 2012\Projects\Task4\Task4\obj\Debug\Task4.exe
+c:\users\димон\documents\visual studio 2012\Projects\Task4\Task4\obj\Debug\Task4.pdb

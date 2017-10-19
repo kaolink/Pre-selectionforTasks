@@ -1,0 +1,2 @@
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\bin\Debug\Task3_OOP.exe.config
+c:\users\димон\documents\visual studio 2012\Projects\Task3_OOP\Task3_OOP\obj\Debug\Task3_OOP.csprojResolveAssemblyReference.cache
